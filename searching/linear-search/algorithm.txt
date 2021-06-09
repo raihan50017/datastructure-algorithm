@@ -1,0 +1,9 @@
+Step-1: Start
+Step-2: i=0, searchItem = 4
+Step-3: if i>=n go to Step-8
+Step-4: if a[i] == searchItem go to Step-7
+Step-5: i++
+Step-6: Go to Step-3
+Step-7: Print "item found at index i" go to Step-9
+Step-8: Print "item not found" and go to Step-9
+Step-9: Stop 
